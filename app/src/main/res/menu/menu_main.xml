@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="TFDefault">
+    </item>
+
+    <item
+        android:title="TFAccordion">
+    </item>
+
+    <item
+        android:title="TFFade">
+    </item>
+
+    <item
+        android:title="TFTablet">
+    </item>
+
+    <item
+        android:actionProviderClass="com.ldy.animdemo.PlusActionProvider"
+        android:title="other"/>
+</menu>
